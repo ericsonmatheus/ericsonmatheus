@@ -25,7 +25,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ##### Some of the technologies I have worked with
 
-![Airflow](https://img.shields.io/badge/-Apache-Airflow-222222?style=flat)
+![Airflow](https://img.shields.io/badge/-Airflow-222222?style=flat&logo=airflow)
 ![DBT](https://img.shields.io/badge/-dbt-222222?style=flat&logo=dbt)
 ![Metabase](https://img.shields.io/badge/-Metabase-222222?style=flat&logo=metabase)
 ![Kedro](https://img.shields.io/badge/-Kedro-222222?style=flat&logo=kedro)
