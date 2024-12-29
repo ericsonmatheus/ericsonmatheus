@@ -1,12 +1,12 @@
 ## Hello 👋
 
-I'm a fullstack web developer and I'm graduated by Estácio 💻
+I'm a Data Analyst with a degree from Estácio 🎓
+I specialize in turning data into actionable insights and am passionate about solving problems through analytics.
+Transitioning from a fullstack web developer, I bring a unique perspective to data-driven solutions, blending technical expertise with analytical thinking.
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-- In love with music and to play it 🎸 
-- Obsessed with the universe 🌌 🪐
-- Passionate about learning 👨‍🎓 👨‍💻
+- Enthusiast of music and a guitar player 🎸
+- Fascinated by the mysteries of the universe 🌌 🪐
+- Lifelong learner, always ready for new challenges and growth 📚✨
 
 ##### How to reach me: 
 👇🏼
