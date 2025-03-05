@@ -5,7 +5,7 @@
 - 💻 Estou em busca de novos desafios e cenários para praticar meus conhecimentos em IA.
 - 🖥️ Realizo projetos pessoais com conhecimentos em backend e frontend.
 - 🎸 Sou apaixonado por música.
-- 💼 Meu portfólio: [Ericson Matheus](https://ericsonmatheus.github.io/)
+- 💼 Meu portfólio: [Ericson Matheus](https://ericsonmatheus.github.io/){:target="_blank"}
 
 ##
 <h2>Meu github</h2>
